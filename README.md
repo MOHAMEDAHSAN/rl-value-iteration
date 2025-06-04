@@ -28,8 +28,8 @@ The optimal policy can be constructed by taking the argmax of the action-value f
 Return the optimal policy and the optimal value function.
 
 ## VALUE ITERATION FUNCTION
-**Name:** Mohammed Saajid
-**Register Number:** 212223240093
+**Name:** Mohamed Ahsan 
+**Register Number:** 212223240089
 ```
 envdesc  = ['FSFF','FFHF','FHFF', 'FGFF']
 env = gym.make('FrozenLake-v1',desc=envdesc)
